@@ -1,0 +1,50 @@
+{
+  "$Auriel.png": {
+    "name": "Auriel",
+    "cols": 3,
+    "rows": 4,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "C:\\Users\\NHA\\Documents\\Games\\Dissertation Versions\\Time 1.5\\1.4 Noupdate 1.6\\img\\characters\\$Auriel.png",
+    "poses": {
+      "Pose0": {
+        "name": "Pose0",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "Pose1": {
+        "name": "Pose1",
+        "speed": 20,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      }
+    }
+  }
+}
